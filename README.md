@@ -12,19 +12,19 @@ The detailed website associated below has been deployed using GitHub pages.
 
 ## Links
 
-[Link to optimized site](https://paul-dimenshion.github.io/HTML-Git-CSS-Challenge#link-to-optimized-site)
-[Link to corresponding repository in GitHub](https://github.com/Paul-Dimenshion/HTML-Git-CSS-Challenge.git#link-to-corresponding-repository-in-GitHub)
+*[Link to optimized site](https://paul-dimenshion.github.io/HTML-Git-CSS-Challenge#link-to-optimized-site)
+*[Link to corresponding repository in GitHub](https://github.com/Paul-Dimenshion/HTML-Git-CSS-Challenge.git#link-to-corresponding-repository-in-GitHub)
 
 
 ## What had been done
-✅ Correct title for document was added
-✅ The logical structure of the HTML-document was constructed.
-✅ Replaced HTML elements with semantic HTML elements.
-✅ Alt text was added to images.
-✅ Comments on the changes were added to the HTML document.
-✅ CSS was reorganized to follow a logical structure.
-✅ Classes and elements were divided, then ordered alphabetically within each group.
-✅ Comments on the changes were added to the CSS document.
+*✅ Correct title for document was added
+*✅ The logical structure of the HTML-document was constructed.
+*✅ Replaced HTML elements with semantic HTML elements.
+*✅ Alt text was added to images.
+*✅ Comments on the changes were added to the HTML document.
+*✅ CSS was reorganized to follow a logical structure.
+*✅ Classes and elements were divided, then ordered alphabetically within each group.
+*✅ Comments on the changes were added to the CSS document.
 
 ## Usage
 After deployment, the application can be viewed in a traditional desktop web browser. It is not yet optimized for mobile, tablets or small screens. 
