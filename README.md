@@ -23,7 +23,6 @@ The detailed website associated below has been deployed using GitHub pages.
 * ✅ Alt text was added to images.
 * ✅ Comments on the changes were added to the HTML document.
 * ✅ CSS was reorganized to follow a logical structure.
-* ✅ Classes and elements were divided, then ordered alphabetically within each group.
 * ✅ Comments on the changes were added to the CSS document.
 
 ## Usage
